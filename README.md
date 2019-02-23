@@ -1,0 +1,1 @@
+To Thinkful grader, please check out the branch `jizong_solo', I have completed everything and push it to that branch. I have not merged the branch yet so my partner can work on his. 
