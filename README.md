@@ -1,1 +1,1 @@
-To Thinkful grader, please check out the branch `jizong_solo', I have completed everything and push it to that branch. I have not merged the branch yet so my partner can work on his. 
+To Thinkful grader, please check out the branch `jizong_solo', I have completed everything beforehand and I redo all the exercises today and push it to my own branch. I have not merged the branch yet because my partner JayLee needs more time to study and work on them. I will work with him later to help him get his part done. I also redo the shopping list with Silas today. 
